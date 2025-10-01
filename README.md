@@ -7,12 +7,12 @@ A simple and elegant task manager widget for KDE Plasma 6.
 
 ## Features
 
-✅ **Quick task management** - Add, complete, and delete tasks easily
-✅ **Smart filtering** - View all, active, or completed tasks
-✅ **Badge counter** - Shows number of incomplete tasks on panel icon
-✅ **Synchronized data** - All widget instances share the same task list
-✅ **Date grouping** - Tasks organized by Today, Yesterday, and older dates
-✅ **System integration** - Uses Plasma's native styling and colors
+- **Quick task management** - Add, complete, and delete tasks easily
+- **Smart filtering** - View all, active, or completed tasks
+- **Badge counter** - Shows number of incomplete tasks on panel icon
+- **Synchronized data** - All widget instances share the same task list
+- **Date grouping** - Tasks organized by Today, Yesterday, and older dates
+- **System integration** - Uses Plasma's native styling and colors
 
 ## Screenshots
 
