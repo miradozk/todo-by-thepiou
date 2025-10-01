@@ -1,0 +1,36 @@
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Build artifacts
+*.o
+*.so
+*.a
+build/
+dist/
+
+# Python (if any dev tools)
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Qt Creator
+*.user
+*.autosave
+
+# KDE/Plasma development
+*.plasmoid
+plasma-widget.tar.gz

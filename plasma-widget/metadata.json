@@ -1,0 +1,24 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "miradozk@users.noreply.github.com",
+                "Name": "miradozk"
+            }
+        ],
+        "Category": "Productivity",
+        "Description": "Simple and elegant task manager for Plasma",
+        "Description[fr]": "Gestionnaire de tâches simple et élégant pour Plasma",
+        "EnabledByDefault": true,
+        "Icon": "view-list-details",
+        "Id": "thepiou.plasma.todo",
+        "License": "MIT",
+        "Name": "To Do",
+        "Version": "1.0.0",
+        "Website": "https://github.com/miradozk/todo-by-thepiou"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-DefaultSize": "400,600"
+}
