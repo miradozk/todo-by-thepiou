@@ -2,6 +2,8 @@
 
 A simple and elegant task manager widget for KDE Plasma 6.
 
+![](/screenshot.png)
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Plasma](https://img.shields.io/badge/Plasma-6.0+-blue.svg)
 
